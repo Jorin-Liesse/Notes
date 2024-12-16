@@ -1,7 +1,5 @@
 # Table of Contents
 
-- ****
-  - [Todo](Todo)
 - **Company**
   - [Brainstorm](Company/Brainstorm)
   - [Budget](Company/Budget)
@@ -33,16 +31,9 @@
   - [Versioning Scheme](Development/Versioning-Scheme)
 - **Javascript**
   - [Guide](Javascript/Guide)
-- **Junk**
-  - [MinecraftMod](Junk/MinecraftMod)
-  - [PCApps](Junk/PCApps)
 - **Markdown**
   - [Syntax](Markdown/Syntax)
 - **Math**
   - [Trigonometry](Math/Trigonometry)
-- **School**
-  - [GP1](School/GP1)
-  - **GP1**
-    - [Business Plan](School/GP1/Business-Plan)
 - **Unity**
   - [MonoBehaviour](Unity/MonoBehaviour)
