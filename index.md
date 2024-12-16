@@ -1,5 +1,3 @@
-# Table of Contents
-
 - **Company**
   - [Brainstorm](Company/Brainstorm)
   - [Budget](Company/Budget)
