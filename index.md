@@ -1,6 +1,3 @@
-<link rel="icon" href="icon.svg" type="image/x-icon">
-
-
 - **Company**
   - [Brainstorm](Company/Brainstorm)
   - [Budget](Company/Budget)
