@@ -1,4 +1,4 @@
-<link rel="icon" href="favicon.ico" type="image/x-icon">
+<link rel="icon" href="icon.svg" type="image/x-icon">
 
 
 - **Company**
