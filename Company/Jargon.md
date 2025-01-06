@@ -118,3 +118,5 @@
 * **B2B**: Business to Business. Contrast with B2C: Business to Customer.
 * **Parallel production**: multiple projects running at the same time, normally in a staggered pattern.
 * **Marker for growth**: a measurable indicator that signals progress or expansion (or the need thereof) within a company.
+
+<audio controls> <source src="..\assets\audio\jargon.mp3" type="audio/mpeg"> Your browser does not support the audio element. </audio>
