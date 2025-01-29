@@ -2,9 +2,9 @@
 
 ## Devepement Cycle
 
-- Game Idea
-- Game Design Document
-- Prototyping
-- Steam Page
-- Demo Release
-- Game Release
+**Game Idea**  
+**Game Design Document**  
+**Prototyping**  
+**Steam Page**  
+**Demo Release**  
+**Game Release**  

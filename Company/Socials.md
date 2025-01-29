@@ -2,9 +2,9 @@
 
 ## Socials
 
-- Linkedin
-- Youtube
-- Instagram
-- Tiktok
-- Steam
-- Itch
+**Linkedin**  
+**Youtube**  
+**Instagram**  
+**Tiktok**  
+**Steam**  
+**Itch**  

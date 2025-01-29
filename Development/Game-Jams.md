@@ -2,11 +2,11 @@
 
 ## Game Jams
 
-- [Pirate Software](https://itch.io/jam/pirate)
+[Pirate Software](https://itch.io/jam/pirate)
 
-- [Brackeys Game](https://itch.io/jam/brackeys-12)
+[Brackeys Game](https://itch.io/jam/brackeys-12)
 
-- [Ludum Dare](https://ludumdare.com/)
+[Ludum Dare](https://ludumdare.com/)
 
-- [GMTK](https://gamemakerstoolkit.com/jam/)
+[GMTK](https://gamemakerstoolkit.com/jam/)
 
