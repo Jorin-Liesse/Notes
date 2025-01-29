@@ -84,6 +84,24 @@ audio {
   column-gap: 20px;
 }
 
+@media (min-width: 600px) {
+  .masonry {
+    columns: 2;
+  }
+}
+
+@media (min-width: 900px) {
+  .masonry {
+    columns: 3;
+  }
+}
+
+@media (min-width: 1200px) {
+  .masonry {
+    columns: 4;
+  }
+}
+
 .masonry-item {
   background-color: #f0f0f0;
   padding: 20px;
@@ -97,7 +115,14 @@ audio {
 
 .masonry-item ul {
   padding-left: 0px;
+  padding-bottom: 0px;
+  margin-bottom: 0px;
   list-style-type: none;
+}
+
+.masonry-item a:last-of-type {
+  margin-bottom: 0px;
+  padding-bottom: 0px;
 }
 
 .masonry-item a {
