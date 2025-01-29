@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="style.css">
+
 ## Naming Conventions
 
 - **Material**: MAT_Name

@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="style.css">
+
 ## Game Release
 
 - **Cover Art** (key art is eye-catching and professionally done)

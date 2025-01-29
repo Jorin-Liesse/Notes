@@ -3,9 +3,15 @@
 
 ### Jorin ###
 /[Uu]ninclude/
-/[Gg]enerate.py
-/[Tt]odo.md
+/[Aa]ssets/Packages/SimpleFolderIcon/
+/[Aa]ssets/Packages/SimpleIcons/
+/[Aa]ssets/Packages/SimpleFolderIcon.meta
+/[Aa]ssets/Packages/SimpleIcons.meta
+/[Aa]ssets/Packages/SimpleShortcuts/
+/[Aa]ssets/Packages/SimpleShortcuts.meta
 
+### Unity extra's ###
+/UIElementsSchema/
 
 ### Unity ###
 # This .gitignore file should be placed at the root of your Unity project directory

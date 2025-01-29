@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="style.css">
+
 ## Jargon
 
 - **Vertical Slash**: fully playable section of a game, showcasing all major mechanics, visuals, and features to a finished level, but limited in scope.
@@ -13,45 +15,6 @@
 - **Pitch Deck**: Title Slide, Overview / Elevator Pitch, Concept / Vision, Gameplay, Market Analysis, Business Model, Development Timeline, Budget and Funding, Team, Traction and Current Progress, Contact Information
 
 - **Brainstorm**: A creative process where a group of individuals generates ideas and solutions to problems, often without judgment or criticism, to foster innovation and creativity.
-
-- **Company Vision**: Vision is what a company will (hopefully) achieve in the long run, and its impact on the world.
-
-- **Company Mission**: The mission is a company’s current purpose and present ambitions. What the company is working on right now should reflect that mission.
-
-- **Overscoping**: Including too many features or content into game production. As a result, the project takes too long to complete and/or costs too much.
-
-- **USP**: Unique selling proposition, or unique selling point. The feature(s) that makes this game unique compared to its competitors. For example, Colruyt offers to lower the price of a product if you have seen the product with a lower price elsewhere.
-
-- **Income**: The profit earned after accounting for all expenses. Not the same as revenue!
-
-- **Angel investor**: Someone who invests their own money in a company, usually in the early stages
-
-- **Venture capitalist**: An individual or company who invests in (young) companies which often have “proven potential” . They invest money for equity.
-
-- **Investment banker**: Someone who provides financial services for “customers” like: Raising capital, arranging mergers and  other financial items.
-
-- **IPO**: Initial public offering, in which shares of a private company are made available to the public for the first time.
-
-- **VAF**: Vlaams Audiovisueel Fonds
-
-- **VLAIO**: VLAIO - Belgian tool for starting a company.
-
-- **EGDF**: European Games Developer Federation
-
-- **Crowdfunding**: Capital raised from a large group of people before you release the product. Often without losing equity. 
-
-- **MVP**: Minimum viable product.
-
-- **Equity**: The value of company shares.
-
-- **Liquidation**: The conversion of assets into cash (i.e. by selling them).
-
-- **Revenue**: Money earned from operating before paying the bills.
-- **Profit**: A term for the money that is left (the income).
-
-- **Debt**: Money that is owed or due.
-
----
 
 * **HR**: Human Resources. Manage the workforce of your company: the people.
 * **Company Mission**: The mission is a company’s current purpose and present ambitions. What the company is working on right now should reflect that mission.
@@ -119,4 +82,3 @@
 * **Parallel production**: multiple projects running at the same time, normally in a staggered pattern.
 * **Marker for growth**: a measurable indicator that signals progress or expansion (or the need thereof) within a company.
 
-<audio controls> <source src="..\assets\audio\jargon.mp3" type="audio/mpeg"> Your browser does not support the audio element. </audio>

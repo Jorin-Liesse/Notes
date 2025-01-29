@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="style.css">
+
 ## Gaming Company's
 
 - [Invisible Walls (Denmark)](https://www.invisiblewalls.co/)

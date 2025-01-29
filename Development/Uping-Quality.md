@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="style.css">
+
 ## Uping Quality
 
 - Global Color Scheme

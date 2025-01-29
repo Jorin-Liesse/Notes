@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="style.css">
+
 ## Business Plan
 
 * **Executive Summary** (A short and clear explanation of what you want to do as a company)

@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="style.css">
+
 # Markdown Syntax Guide
 
 Markdown is a lightweight markup language for formatting text. Below is a guide to its most commonly used syntax.

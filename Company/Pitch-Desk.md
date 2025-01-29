@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="style.css">
+
 ## Pitch Desk
 
 * **Title Slide** (Game Title, Your company’s name/logo)

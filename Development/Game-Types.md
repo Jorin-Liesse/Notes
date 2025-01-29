@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="style.css">
+
 ## Game Types
 
 - RPG Game

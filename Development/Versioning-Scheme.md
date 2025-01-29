@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="style.css">
+
 ## Versioning Scheme
 
 - **Main Branch**: Major Version

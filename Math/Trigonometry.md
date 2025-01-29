@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="style.css">
+
 ## Trigonometry
 
 $$SOS: sin(\alpha) = \frac{overstaand}{schuine}$$

@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="style.css">
+
 ## Game Jams
 
 - [Pirate Software](https://itch.io/jam/pirate)

@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="style.css">
+
 ## Type Investors
 
 * **Your Self** (Your time and money)
