@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="style.css">
+
 - **Company**
   - [Brainstorm](Company/Brainstorm)
   - [Budget](Company/Budget)
