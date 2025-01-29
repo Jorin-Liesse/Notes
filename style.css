@@ -81,14 +81,14 @@ audio {
 
 .masonry {
   columns: 3;
-  column-gap: 30px;
+  column-gap: 20px;
 }
 
 .masonry-item {
   background-color: #f0f0f0;
   padding: 20px;
   break-inside: avoid;
-  margin-bottom: 30px;
+  margin-bottom: 20px;
 }
 
 .masonry-item h3 {
