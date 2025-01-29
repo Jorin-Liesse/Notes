@@ -1,3 +1,5 @@
+/* general */
+
 * {
   transition: 0.25s ease;
 }
@@ -15,6 +17,9 @@
   border-radius: 10px;
   border: 3px solid #ffffff;
 }
+
+
+/* dark-mode */
 
 @media (prefers-color-scheme: dark) {
   body {
@@ -37,10 +42,16 @@
   }
 }
 
+
+/* audio */
+
 audio {
   width: 300px;
   height: 40px;
 }
+
+
+/* image-collection */
 
 .image-collection {
   display: grid;
@@ -63,4 +74,36 @@ audio {
 
 .image-collection a:hover .eye-icon {
   filter: opacity(1);
+}
+
+
+/* masonry-grid */
+
+.masonry {
+  columns: 3;
+  column-gap: 30px;
+}
+
+.masonry-item {
+  background-color: #f0f0f0;
+  padding: 20px;
+  break-inside: avoid;
+  margin-bottom: 30px;
+}
+
+.masonry-item h3 {
+  margin-top: 0;
+}
+
+.masonry-item ul {
+  padding-left: 0px;
+  list-style-type: none;
+}
+
+.masonry-item a {
+  text-decoration: none;
+}
+
+.masonry-item a:hover {
+  text-decoration: underline;
 }
