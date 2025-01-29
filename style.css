@@ -90,15 +90,9 @@ audio {
   }
 }
 
-@media (min-width: 900px) {
+@media (min-width: 1000px) {
   .masonry {
     columns: 3;
-  }
-}
-
-@media (min-width: 1200px) {
-  .masonry {
-    columns: 4;
   }
 }
 
