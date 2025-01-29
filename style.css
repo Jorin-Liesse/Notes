@@ -80,9 +80,16 @@ audio {
 /* masonry-grid */
 
 .masonry {
-  columns: 3;
+  columns: 1;
   column-gap: 20px;
 }
+
+@media (min-width: 300px) {
+  .masonry {
+    columns: 1;
+  }
+}
+
 
 @media (min-width: 600px) {
   .masonry {
@@ -90,7 +97,7 @@ audio {
   }
 }
 
-@media (min-width: 1000px) {
+@media (min-width: 900px) {
   .masonry {
     columns: 3;
   }
