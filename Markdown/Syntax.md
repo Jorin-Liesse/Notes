@@ -139,7 +139,3 @@ Example:
 ```md
 This is ~~strikethrough~~ text.
 ```
-
----
-
-This guide covers most of the commonly used Markdown syntax features. Happy writing!
