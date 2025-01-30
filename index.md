@@ -57,41 +57,22 @@
       <li><a href="Math/Trigonometry">Trigonometry</a></li>
     </ul>
   </div>
+  <div class="masonry-item">
+    <h3>Blender</h3>
+    <ul>
+      <li><a href="Blender/Workflow">Workflow</a></li>
+    </ul>
+  </div>
+  <div class="masonry-item">
+    <h3>Unity</h3>
+    <ul>
+      <li><a href="Unity/Workflow">Workflow</a></li>
+    </ul>
+  </div>
+  <div class="masonry-item">
+    <h3>Substaince Painter</h3>
+    <ul>
+      <li><a href="Substaince-Painter/Workflow">Workflow</a></li>
+    </ul>
+  </div>
 </div>
-
-<!-- - **Company**
-  - [Brainstorm](Company/Brainstorm)
-  - [Budget](Company/Budget)
-  - [Business Plan](Company/Business-Plan)
-  - [Company Hierarchy](Company/Company-Hierarchy)
-  - [Company Life Cycle](Company/Company-Life-Cycle)
-  - [Gaming Companys](Company/Gaming-Companys)
-  - [Good Games](Company/Good-Games)
-  - [Jargon](Company/Jargon)
-  - [Legal Digital Ownership](Company/Legal-Digital-Ownership)
-  - [Pitch Desk](Company/Pitch-Desk)
-  - [Socials](Company/Socials)
-  - [Type Investors](Company/Type-Investors)
-- **Development**
-  - [Branching Strategy](Development/Branching-Strategy)
-  - [Commit Messages](Development/Commit-Messages)
-  - [Demo Release](Development/Demo-Release)
-  - [Devepement Cycle](Development/Devepement-Cycle)
-  - [Game Design Document](Development/Game-Design-Document)
-  - [Game Idea](Development/Game-Idea)
-  - [Game Jams](Development/Game-Jams)
-  - [Game Release](Development/Game-Release)
-  - [Game Types](Development/Game-Types)
-  - [GitHub Workflow](Development/GitHub-Workflow)
-  - [Languages](Development/Languages)
-  - [Naming Conventions](Development/Naming-Conventions)
-  - [Prototyping](Development/Prototyping)
-  - [Steam Page](Development/Steam-Page)
-  - [Uping Quality](Development/Uping-Quality)
-  - [Versioning Scheme](Development/Versioning-Scheme)
-- **Digital Art & Entertainment**
-  - [Courses](Digital-Art-&-Entertainment/Courses)
-- **Markdown**
-  - [Syntax](Markdown/Syntax)
-- **Math**
-  - [Trigonometry](Math/Trigonometry) -->
