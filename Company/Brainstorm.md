@@ -7,21 +7,25 @@
 > • Clap in sync  
 > • Left hand right hand  
 
+<br>
 
 > **Mindmapping**  
 > • Start with a Theme  
 > • Add associate words  
 > • Get ideas from that  
 
+<br>
 
 > **Crazy 8's**  
 > • 8 minutes to sketch out at least eight different ideas  
 > • Pick one of your ideas and come up with 8 variations in 8 minutes  
 
+<br>
 
 > **Teleport Thoughts**  
 > • Try to look at the problem from a different perspective (other time, place, person)
 
+<br>
 
 > **Thinking hats**  
 > **Blue hat (Session Focus)**  
@@ -71,6 +75,8 @@
 > • Select ideas to use  
 > • Address information gaps discover in the session  
 
+<br>
+
 > **SCAMPER**  
 > • Substitute (Replace an element)  
 > • Combine (combine a elements)  
@@ -80,6 +86,7 @@
 > • Eliminate (Remove unnecessary elements)  
 > • Reverse (Turn an element around)  
 
+<br>
 
 > **Deck of lenses**  
 > • App on android to help get ideas  
