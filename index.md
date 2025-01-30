@@ -1,10 +1,10 @@
 <link rel="stylesheet" href="style.css">
 
 <div class="masonry">
-<div class="masonry-item">
-    <h3>Math</h3>
+  <div class="masonry-item">
+    <h3>Digital Art & Entertainment</h3>
     <ul>
-      <li><a href="Math/Trigonometry">Trigonometry</a></li>
+      <li><a href="Digital-Art-&-Entertainment/Courses">Courses</a></li>
     </ul>
   </div>
   <div class="masonry-item">
@@ -46,9 +46,9 @@
     </ul>
   </div>
   <div class="masonry-item">
-    <h3>Digital Art & Entertainment</h3>
+    <h3>Math</h3>
     <ul>
-      <li><a href="Digital-Art-&-Entertainment/Courses">Courses</a></li>
+      <li><a href="Math/Trigonometry">Trigonometry</a></li>
     </ul>
   </div>
   <div class="masonry-item">
