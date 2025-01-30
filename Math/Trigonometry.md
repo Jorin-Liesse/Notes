@@ -22,7 +22,7 @@ $$tan(\alpha) = [-\infty; \infty]$$
 
 ---
 
-$(sin(\alpha))^2 + (cos(\alpha))^2 = 1$  
+$$(sin(\alpha))^2 + (cos(\alpha))^2 = 1$$  
 
 ---
 
