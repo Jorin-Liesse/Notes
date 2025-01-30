@@ -1,6 +1,12 @@
 <link rel="stylesheet" href="style.css">
 
 <div class="masonry">
+<div class="masonry-item">
+    <h3>Math</h3>
+    <ul>
+      <li><a href="Math/Trigonometry">Trigonometry</a></li>
+    </ul>
+  </div>
   <div class="masonry-item">
     <h3>Company</h3>
     <ul>
@@ -49,12 +55,6 @@
     <h3>Markdown</h3>
     <ul>
       <li><a href="Markdown/Syntax">Syntax</a></li>
-    </ul>
-  </div>
-  <div class="masonry-item">
-    <h3>Math</h3>
-    <ul>
-      <li><a href="Math/Trigonometry">Trigonometry</a></li>
     </ul>
   </div>
   <div class="masonry-item">
