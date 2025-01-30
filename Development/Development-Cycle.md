@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="../style.css">
 
-## Devepement Cycle
+## Development Cycle
 
 **Game Idea**  
 **Game Design Document**  

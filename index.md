@@ -30,7 +30,7 @@
       <li><a href="Development/Branching-Strategy">Branching Strategy</a></li>
       <li><a href="Development/Commit-Messages">Commit Messages</a></li>
       <li><a href="Development/Demo-Release">Demo Release</a></li>
-      <li><a href="Development/Devepement-Cycle">Devepement Cycle</a></li>
+      <li><a href="Development/Development-Cycle">Development Cycle</a></li>
       <li><a href="Development/Game-Design-Document">Game Design Document</a></li>
       <li><a href="Development/Game-Idea">Game Idea</a></li>
       <li><a href="Development/Game-Jams">Game Jams</a></li>
