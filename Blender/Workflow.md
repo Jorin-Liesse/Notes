@@ -123,8 +123,7 @@
 
 <br>
 
-> ### Settings
-> ## Export
+> ### Export Settings
 > **Edge**: ✅  
 > **Width Type**: Offset  
 > **Amount**: 0.02  
@@ -132,8 +131,10 @@
 > **Limit Method**: Weight  
 > **Superellipse**: ✅  
 > **Shape**: 1  
-> 
-> ## Bevel Modifier
+
+<br>
+
+> ### Bevel Modifier Settings
 > **Selected Objects**: ✅  
 > **Apply Scales**: FXB Units Scale  
 > **Forward**: Y Forward  
