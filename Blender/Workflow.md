@@ -17,11 +17,15 @@
 > **Baking Groups**: Split model into baking groups, name them (BG1_Low).  
 > **Export**: Export to FBX (Low).
 
+<br>
+
 > ### High Poly  
 > **Details**: Model floaters and extra details, add bevel modifier.  
 > **Baking Groups**: Assign to baking groups, keeping floaters separate.  
 > **Naming**: Rename baking groups, name them (BG1_High).  
 > **Export**: Export to FBX (High, Floaters).  
+
+<br>
 
 > ### Rigging  
 > **Rig Naming**: Name the rig (R_Name).  
@@ -31,6 +35,8 @@
 > **Vertex Groups**: Uncheck deform for non-vertex assigned bones; assign vertices to corresponding bone names.  
 > **Bone Collections**: Create collections for bones and control bones, color-code them.  
 > **Final Setup**: Lock transformations, limit IK bone rotation, check collections visibility.  
+
+<br>
 
 > ### Animation  
 > **Setup**: Create animations using timeline and graph editor, Toggle shield.  
