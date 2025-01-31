@@ -124,7 +124,8 @@
 <br>
 
 > ### Settings
-> **Edge**s: ✅  
+> ## Export
+> **Edge**: ✅  
 > **Width Type**: Offset  
 > **Amount**: 0.02  
 > **Segments**: 2  
@@ -132,6 +133,7 @@
 > **Superellipse**: ✅  
 > **Shape**: 1  
 > 
+> ## Bevel Modifier
 > **Selected Objects**: ✅  
 > **Apply Scales**: FXB Units Scale  
 > **Forward**: Y Forward  
