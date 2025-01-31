@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="../style.css">
+
 ## Crazy-Sea
 
 > ### Play Styles
