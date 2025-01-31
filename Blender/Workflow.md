@@ -2,7 +2,9 @@
 
 ## Blender Workflow
 
-### Design/Blockout
+> ### Design/Blockout
+
+<br>
 
 > ### Low Poly  
 > **Modeling**: Focus on important parts for the silhouette; details to be baked later.  
