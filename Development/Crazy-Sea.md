@@ -7,6 +7,8 @@
 > **Trader**  
 > **Explorer**  
 
+<br>
+
 > ### Mechanics
 > **Economy**: Buy and sell cargo, customize, repair, and upgrade your ship.
 > 
@@ -18,8 +20,12 @@
 > 
 > **Boat Customizing**: Personalize your ship’s appearance and capabilities.  
 
+<br>
+
 > ### Gameplay Overview
 > In "Crazy-Sea," players command their own ship, engaging in trade, exploration, and piracy. By traveling between ports, players can buy materials to repair, customize, or upgrade their ship. Additionally, players can transport cargo to sell at other ports for a profit, considering the fluctuating prices.
+
+<br>
 
 > ## Key Features
 > **Sailing Mechanics**: 
