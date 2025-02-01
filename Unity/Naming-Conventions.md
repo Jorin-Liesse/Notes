@@ -2,7 +2,7 @@
 
 ## Unity Naming 
 
-> ## Files files 📄
+> ### Files files 📄
 > **Material**: MAT_Name  
 > **Static Mesh**: SM_Name  
 > **Rig**: R_Name  
@@ -12,7 +12,7 @@
 > **Animation Controller**: AC_Name  
 > **Animation Strip** A_Name  
 
-> ## Folders 📂
+> ### Folders 📂
 > **Animations**  
 > **Animator**
 > **Audio**
@@ -32,7 +32,7 @@
 > **Terains**
 > **Textures**  
 
-> ## Textures 🏞
+> ### Textures 🏞
 > **Texture BaseColor**: T_Name_BaseMap  
 > **Texture Smoothness**: T_Name_Smoothness  
 > **Texture Opacity**: T_Name_Opacity  
