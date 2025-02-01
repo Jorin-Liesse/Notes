@@ -12,6 +12,8 @@
 > **Animation Controller**: AC_Name  
 > **Animation Strip** A_Name  
 
+<br>
+
 > ### Folders 📂
 > **Animations**  
 > **Animator**
@@ -30,7 +32,9 @@
 > **Shaders**
 > **Sprites**
 > **Terains**
-> **Textures**  
+> **Textures**
+
+<br>
 
 > ### Textures 🏞
 > **Texture BaseColor**: T_Name_BaseMap  
