@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="../style.css">
 
-## Unity Naming 
+## Unity Naming Conventions
 
 > ### Files files 📄
 > **Material**: MAT_Name  
