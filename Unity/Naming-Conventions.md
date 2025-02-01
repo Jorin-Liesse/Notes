@@ -2,7 +2,7 @@
 
 ## Unity Naming Conventions
 
-> ### Files files 📄
+> ### Files 📄
 > **Material**: MAT_Name  
 > **Static Mesh**: SM_Name  
 > **Rig**: R_Name  
