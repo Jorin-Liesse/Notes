@@ -137,8 +137,8 @@
 > ### Bevel Modifier Settings
 > **Selected Objects**: ✅  
 > **Apply Scales**: FXB Units Scale  
-> **Forward**: Y Forward  
-> **Up**: Z Up  
+> **Forward**: -Z Forward  
+> **Up**: Y Up  
 > **Apply Unit**: ✅  
 > **Use Space Transform**: ✅  
 > **Apply Transfor**: ✅  

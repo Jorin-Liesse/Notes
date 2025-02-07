@@ -4,6 +4,7 @@
 
 **Material**: MAT_Name  
 **Static Mesh**: SM_Name  
+**Terrain**: TER_Name
 **Rig**: R_Name  
 **Shader**: SH_Name  
 **Sound**: S_Name  
