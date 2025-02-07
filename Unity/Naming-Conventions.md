@@ -2,17 +2,6 @@
 
 ## Unity Naming Conventions
 
-<<<<<<< HEAD
-**Material**: MAT_Name  
-**Static Mesh**: SM_Name  
-**Terrain**: TER_Name
-**Rig**: R_Name  
-**Shader**: SH_Name  
-**Sound**: S_Name  
-**Prefab**: PRE_Name  
-**Animation Controller**: AC_Name  
-**Animation Strip** A_Name  
-=======
 > ### Files 📄
 > **Material**: MAT_Name  
 > **Static Mesh**: SM_Name  
@@ -22,7 +11,6 @@
 > **Prefab**: PRE_Name  
 > **Animation Controller**: AC_Name  
 > **Animation Strip** A_Name  
->>>>>>> f0bfcb9bc268f61583952a6c2aef4dff4295bc3a
 
 <br>
 
