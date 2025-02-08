@@ -16,23 +16,23 @@
 
 > ### Folders 📂
 > **Animations**  
-> **Animator**
-> **Audio**
+> **Animator**  
+> **Audio**  
 > **Fonts**  
-> **InputActions**
-> **Materials**
+> **InputActions**  
+> **Materials**  
 > **Models**  
-> **Packages**
-> **Prefabs**
-> **Resources**
-> **Snenes**
-> **Scriptables**
-> **Scripts**
-> **Settings**
-> **Shaders**
-> **Sprites**
-> **Terains**
-> **Textures**
+> **Packages**  
+> **Prefabs**  
+> **Resources**  
+> **Snenes**  
+> **Scriptables**  
+> **Scripts**  
+> **Settings**  
+> **Shaders**  
+> **Sprites**  
+> **Terains**  
+> **Textures**  
 
 <br>
 
