@@ -40,6 +40,7 @@
       <li><a href="Development/Languages">Languages</a></li>
       <li><a href="Development/Prototyping">Prototyping</a></li>
       <li><a href="Development/Steam-Page">Steam Page</a></li>
+      <li><a href="Development/Uping-Community">Uping Community</a></li>
       <li><a href="Development/Uping-Quality">Uping Quality</a></li>
       <li><a href="Development/Versioning-Scheme">Versioning Scheme</a></li>
     </ul>
