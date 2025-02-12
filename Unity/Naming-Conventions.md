@@ -1,16 +1,23 @@
-<link rel="stylesheet" href="../style.css">
+<!-- <link rel="stylesheet" href="../style.css"> -->
 
 ## Unity Naming Conventions
 
 > ### Files 📄
-> **Material**: MAT_Name  
-> **Static Mesh**: SM_Name  
-> **Rig**: R_Name  
-> **Shader**: SH_Name  
-> **Sound**: S_Name  
-> **Prefab**: PRE_Name  
-> **Animation Controller**: AC_Name  
-> **Animation Strip** A_Name  
+> | Prefix | Name|
+> |:-------|:-------|
+> | MAT_ | Material |
+> | MI_ | Material Instance |
+> | SM_ | Static |
+> | CHAR_ | Character |
+> | ANIM_ | Animation |
+> | RIG_ | Rig |
+> | PRE_ | Prefab |
+> | SH_ | Shader |
+> | SX_ | SFX |
+> | AC_ | Animation Controller |
+> | A_ | Animation Strip |
+> | MX_ | Music |
+> | DX_ | Dialogue |
 
 <br>
 
@@ -25,7 +32,7 @@
 > **Packages**  
 > **Prefabs**  
 > **Resources**  
-> **Snenes**  
+> **Scenes**  
 > **Scriptables**  
 > **Scripts**  
 > **Settings**  
@@ -33,13 +40,19 @@
 > **Sprites**  
 > **Terains**  
 > **Textures**  
+> **UI**  
 
 <br>
 
 > ### Textures 🏞
-> **Texture BaseColor**: T_Name_BaseMap  
-> **Texture Smoothness**: T_Name_Smoothness  
-> **Texture Opacity**: T_Name_Opacity  
-> **Texture Emission**: T_Name_Emissive  
-> **Texture Normal**: T_Name_Normal  
-> **Texture MaskMap**: T_Name_MaskMap  
+> | Prefix | Name| Suffix |
+> |:-------|:-------|:-------|
+> | T_ | Albedo | _AL |
+> | T_ | Smoothness | _S |
+> | T_ | Opacity | _O |
+> | T_ | Emission | _EM |
+> | T_ | MaskMap | _MASK  |
+> | T_ | Metallic | _MT |
+> | T_ | Height | _H |
+> | T_ | Ambient Occlusion | _AO |
+> | T_ | Normal |_N   |
