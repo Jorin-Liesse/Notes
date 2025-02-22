@@ -1,4 +1,4 @@
-<!-- <link rel="stylesheet" href="../style.css"> -->
+<link rel="stylesheet" href="../style.css">
 
 ## Unity Naming Conventions
 
@@ -6,18 +6,19 @@
 > | Prefix | Name|
 > |:-------|:-------|
 > | MAT_ | Material |
-> | MI_ | Material Instance |
 > | SM_ | Static |
 > | CHAR_ | Character |
 > | ANIM_ | Animation |
 > | RIG_ | Rig |
 > | PRE_ | Prefab |
 > | SH_ | Shader |
-> | SX_ | SFX |
 > | AC_ | Animation Controller |
 > | A_ | Animation Strip |
+> | SX_ | SFX |
 > | MX_ | Music |
 > | DX_ | Dialogue |
+> | IA_ | InputAction |
+
 
 <br>
 
@@ -56,3 +57,4 @@
 > | T_ | Height | _H |
 > | T_ | Ambient Occlusion | _AO |
 > | T_ | Normal |_N   |
+> | T_ | Curvature |_C   |

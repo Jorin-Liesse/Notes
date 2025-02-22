@@ -26,3 +26,22 @@ Texture maps in unity
 * Materials Emision exposer weight to 0.0f
 * Materials Emision use Emission intensity
 
+packages
+**add**
+* FBX Exporter
+* Input System
+* Visual Studio Editor
+
+**optional**
+* Cinemachine
+
+**remove**
+* visual Scripting
+* jetbrain editor
+* Version Control
+
+* Mesh
+* Rig
+* Animation
+
+in separate files
