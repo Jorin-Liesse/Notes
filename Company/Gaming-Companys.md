@@ -29,3 +29,21 @@
 [StickyTable (Kortrijk)](https://stickytable.com/)
 
 [Napoleon Games Casino (Genk)](https://napoleongames.be/en-be/home)
+
+[Altereyes (Hasselt)](https://altereyes.com/)
+
+[Business Goose Studios (Hasselt)](https://www.businessgoose.be/)
+
+[Ducktape Solutions (Hasselt)](https://www.companyweb.be/en/0786377020/duck-tape-solutions)
+
+[Pixnami (Genk)](https://www.companyweb.be/en/0728529287/pixnami)
+
+[Quaternion Software (Diepenbeek)](https://quaternionsoftware.com/)
+
+[Sixtyfour (Heusden-Zolder)](https://www.sixtyfour.be/)
+
+[Volcaban Studio (Gingelom)](https://volcabanstudio.com/)
+
+[Xplab (Diepenbeek)](https://xplab.be/)
+
+
