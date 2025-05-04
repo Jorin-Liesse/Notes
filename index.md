@@ -2,6 +2,13 @@
 
 <div class="masonry">
   <div class="masonry-item">
+    <h3>Lists</h3>
+    <ul>
+      <li><a href="Lists/Todo">To Do</a></li>
+      <li><a href="Lists/Groceries">Groceries</a></li>
+    </ul>
+  </div>
+  <div class="masonry-item">
     <h3>Digital Art & Entertainment</h3>
     <ul>
       <li><a href="Digital-Art-&-Entertainment/Courses">Courses</a></li>
