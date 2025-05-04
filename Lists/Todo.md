@@ -18,7 +18,6 @@
       <li onclick="ListOnClick(this)" class="open">Gravity</li>
       <li onclick="ListOnClick(this)" class="open">Jump</li>
       <li onclick="ListOnClick(this)" class="open">Sprint</li>
-      <li onclick="ListOnClick(this)" class="open">Gravity</li>
       <li onclick="ListOnClick(this)" class="open">Crouch</li>
       <li onclick="ListOnClick(this)" class="open">Animation</li>
       <li onclick="ListOnClick(this)" class="open">Weapon</li>
