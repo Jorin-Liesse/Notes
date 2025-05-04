@@ -7,3 +7,7 @@
 <span class="open">open</span>  
 <span class="maybe">maybe</span>  
 <span class="done">done</span>  
+
+- [ ] Task one
+- [x] Task two (completed)
+- [ ] Task three
