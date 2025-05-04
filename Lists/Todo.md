@@ -40,14 +40,12 @@
       <li onclick="ListOnClick(this)" class="open">Texturing</li>
       <li onclick="ListOnClick(this)" class="open">Integrating</li>
     </ul>
-    </ul>
   </div>
   <div class="masonry-item">
     <h3>Roboddy</h3>
     <ul>
       <li onclick="ListOnClick(this)" class="open">Move</li>
       <li onclick="ListOnClick(this)" class="open">Interact</li>
-    </ul>
     </ul>
   </div>
   <div class="masonry-item">
