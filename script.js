@@ -30,7 +30,23 @@ function LoadData() {
   data = JSON.parse(localStorage.getItem(document.title)) || {};
 }
 
+function ListOnLoad() {
+  const list = document.querySelectorAll("span.done, span.open, span.maybe");
+
+  for (let i = 0; i < list.length; i++) {
+    const element = list[i];
+    const key = element.innerText;
+    const value = GetItem(key);
+
+    if (value) element.classList.add("done");
+    else element.classList.remove("done");
+  }
+}
+
+
 document.addEventListener("DOMContentLoaded", () => {
   alert("DOM Loaded");
+  console.log("DOM Loaded");
+  ListOnLoad();
   LoadData();
 });
