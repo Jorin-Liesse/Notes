@@ -1,12 +1,12 @@
 let data = null;
 
 function ListOnClick(element) {
-  // alert("List On Click");
-
   if (element.classList.contains("done")) element.classList.remove("done");
   else element.classList.add("done");
 
   SetItem(element.innerText, element.classList.contains("done"));
+
+  element.blur();
 }
 
 function SetItem(key, value) {
