@@ -4,10 +4,17 @@
 ## To Do List
 
 <span onclick="alert('Hello from GitHub Pages!')" class="none">none</span>  
-<span class="open">open</span>  
-<span class="maybe">maybe</span>  
-<span class="done">done</span>  
+<span onclick="test()" class="open">open</span>  
+<span onclick="test()" class="maybe">maybe</span>  
+<span onclick="test()" class="done">done</span>  
 
 - [ ] Task one
 - [x] Task two (completed)
 - [ ] Task three
+
+
+<script>
+    function test() {
+        alert("test")
+    }
+</script>
