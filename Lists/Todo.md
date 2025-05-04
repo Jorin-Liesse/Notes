@@ -1,5 +1,5 @@
 <link rel="stylesheet" href="../style.css">
-<script src="script.js"></script>
+<script src="../script.js"></script>
 
 ## To Do List
 
