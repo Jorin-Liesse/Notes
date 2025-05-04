@@ -1,7 +1,13 @@
 <link rel="stylesheet" href="../style.css">
 
-## Groceries List
-
-<span onclick="ListOnClick(this)" class="open">Salt</span>  
-<span onclick="ListOnClick(this)" class="open">Sugar</span>  
-<span onclick="ListOnClick(this)" class="open">Ketchup</span>  
+<div class="masonry">
+  <div class="masonry-item">
+    <h3>Test List</h3>
+    <ul>
+      <span class="none">none</span>  
+      <li onclick="ListOnClick(this)" class="open">Salt</li>  
+      <li onclick="ListOnClick(this)" class="open">Sugar</li>  
+      <li onclick="ListOnClick(this)" class="open">Ketchup</li>  
+    </ul>
+  </div>
+</div>

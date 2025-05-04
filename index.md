@@ -86,10 +86,10 @@
     </ul>
   </div>
   <div class="masonry-item">
-    <h3>Substaince Painter</h3>
+    <h3>Substance Painter</h3>
     <ul>
-      <li><a href="Substaince-Painter/Naming-Conventions">Naming Conventions</a></li>
-      <li><a href="Substaince-Painter/Workflow">Workflow</a></li>
+      <li><a href="Substance-Painter/Naming-Conventions">Naming Conventions</a></li>
+      <li><a href="Substance-Painter/Workflow">Workflow</a></li>
     </ul>
   </div>
 </div>
