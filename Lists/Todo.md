@@ -22,6 +22,9 @@
       <li onclick="ListOnClick(this)" class="open">Animation</li>
       <li onclick="ListOnClick(this)" class="open">Weapon</li>
       <li onclick="ListOnClick(this)" class="open">Interact</li>
+      <li onclick="ListOnClick(this)" class="open">Variable Jump Height</li>
+      <li onclick="ListOnClick(this)" class="open">Jump Buffer</li>
+      <li onclick="ListOnClick(this)" class="open">Jump Coyote</li>
     </ul>
   </div>
   <div class="masonry-item">
