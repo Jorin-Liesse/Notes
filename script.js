@@ -31,7 +31,7 @@ function LoadData() {
 }
 
 function ListOnLoad() {
-  const list = document.querySelectorAll("span.done, span.open, span.maybe");
+  const list = document.querySelectorAll(".done, .open, .maybe");
 
   for (let i = 0; i < list.length; i++) {
     const element = list[i];
