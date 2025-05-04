@@ -51,6 +51,14 @@ audio {
 }
 
 
+/* text */
+
+.open { color: limegreen; font-weight: bold;  }
+.maybe { color: orange; font-weight: bold; font-style: italic;}
+.done { color: red; text-decoration: line-through; font-weight: bold; }
+.none { font-weight: bold; }
+
+
 /* image-collection */
 
 .image-collection {
