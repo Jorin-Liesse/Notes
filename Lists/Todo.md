@@ -6,4 +6,4 @@
 <span class="none">none</span>  
 <span onclick="ListOnClick(this)" class="open">open</span>  
 <span onclick="ListOnClick(this)" class="maybe">maybe</span>  
-<span onclick="ListOnClick(this)" class="done">done</span>  
+<span onclick="ListOnClick(this)" class="open done">done</span>  
