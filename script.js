@@ -45,8 +45,6 @@ function ListOnLoad() {
 
 
 document.addEventListener("DOMContentLoaded", () => {
-  alert("DOM Loaded");
-  console.log("DOM Loaded");
   ListOnLoad();
   LoadData();
 });

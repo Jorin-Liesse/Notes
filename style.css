@@ -53,18 +53,21 @@ audio {
 .open {
   color: limegreen;
   font-weight: bold;
+  user-select: none;
   cursor: pointer;
 }
 .maybe {
   color: orange;
   font-weight: bold;
   font-style: italic;
+  user-select: none;
   cursor: pointer;
 }
 .done {
   color: red;
   text-decoration: line-through;
   font-weight: bold;
+  user-select: none;
   cursor: pointer;
 }
 .none {
