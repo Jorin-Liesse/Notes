@@ -3,11 +3,7 @@
 
 ## To Do List
 
-<span onclick="alert('Hello from GitHub Pages!')" class="none">none</span>  
-<span onclick="test()" class="open">open</span>  
-<span onclick="test()" class="maybe">maybe</span>  
-<span onclick="test()" class="done">done</span>  
-
-- [ ] Task one
-- [x] Task two (completed)
-- [ ] Task three
+<span class="none">none</span>  
+<span onclick="ListOnClick(this)" class="open">open</span>  
+<span onclick="ListOnClick(this)" class="maybe">maybe</span>  
+<span onclick="ListOnClick(this)" class="done">done</span>  
