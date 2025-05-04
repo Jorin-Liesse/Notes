@@ -39,12 +39,11 @@ function ListOnLoad() {
     const value = GetItem(key);
 
     if (value) element.classList.add("done");
-    else element.classList.remove("done");
   }
 }
 
 
 document.addEventListener("DOMContentLoaded", () => {
-  ListOnLoad();
   LoadData();
+  ListOnLoad();
 });
