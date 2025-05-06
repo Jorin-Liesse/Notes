@@ -11,6 +11,23 @@
     </ul>
   </div>
   <div class="masonry-item">
+    <h3>Game Design</h3>
+    <ul>
+      <li onclick="ListOnClick(this)" class="open">Crystal Package</li>
+      <li onclick="ListOnClick(this)" class="open">Player Seated Crystal</li>
+      <li onclick="ListOnClick(this)" class="open">Crystal Functionally</li>
+      <li onclick="ListOnClick(this)" class="open">Room Assets</li>
+      <li onclick="ListOnClick(this)" class="open">Tutorial Room</li>
+      <li onclick="ListOnClick(this)" class="open">Level Room</li>
+      <li onclick="ListOnClick(this)" class="open">Floor Lines</li>
+      <li onclick="ListOnClick(this)" class="open">Control Popups</li>
+      <li onclick="ListOnClick(this)" class="open">Animated Text</li>
+      <li onclick="ListOnClick(this)" class="open">Text VoiceOver</li>
+      <li onclick="ListOnClick(this)" class="open">Explanation Animation</li>
+
+    </ul>
+  </div>
+  <div class="masonry-item">
     <h3>Character</h3>
     <ul>
       <li onclick="ListOnClick(this)" class="open">Move</li>
@@ -25,12 +42,15 @@
       <li onclick="ListOnClick(this)" class="open">Variable Jump Height</li>
       <li onclick="ListOnClick(this)" class="open">Jump Buffer</li>
       <li onclick="ListOnClick(this)" class="open">Jump Coyote</li>
+      <li onclick="ListOnClick(this)" class="open">Variable Rotation</li>
+      <li onclick="ListOnClick(this)" class="open">Seated Cart</li>
     </ul>
   </div>
   <div class="masonry-item">
     <h3>MoustacheKart</h3>
     <ul>
       <li onclick="ListOnClick(this)" class="open">Fix Baking</li>
+      <li onclick="ListOnClick(this)" class="open">Fix Paddle Texture</li>
       <li onclick="ListOnClick(this)" class="open">Fix WheelHub</li>
       <li onclick="ListOnClick(this)" class="open">Fix Wheel Rotating</li>
     </ul>
@@ -102,6 +122,8 @@
       <li onclick="ListOnClick(this)" class="open">Jobs Mails</li>
       <li onclick="ListOnClick(this)" class="open">Workout App</li>
       <li onclick="ListOnClick(this)" class="open">Packages Icons</li>
+      <li onclick="ListOnClick(this)" class="open">Add Mobile Inputs</li>
     </ul>
   </div>
 </div>
+d
