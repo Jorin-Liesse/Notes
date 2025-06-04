@@ -204,7 +204,11 @@
       <li class="none">RoofExtra</li>  
       <li class="none">SkewBeam</li>  
       <li class="none">StairStepNormal</li>  
-      <li class="none">StairStepSkew</li>  
+      <li class="none">StairStepSkew</li>   
+    </ul>
+  </div>
+  <div class="masonry-item">
+    <ul>
       <li class="none">TertadecaBase</li>  
       <li class="none">WallBeam</li>  
       <li class="none">WallRoundLarge</li>  
