@@ -4,16 +4,16 @@
   <div class="masonry-item">
     <h3>Game Production</h3>
     <ul>
-      <li><a href="Game-Production/Acerta.md">Acerta</a></li>
-      <li><a href="Game-Production/Vocabulary.md">Vocabulary</a></li>
-      <li><a href="Game-Production/The-Game-Life-Cycle.md">The Game Life Cycle</a></li>
-      <li><a href="Game-Production/Time-Management-and-Stakeholder-Communication.md">Time Management and Stakeholder Communication</a></li>
-      <li><a href="Game-Production/The-Planning-Game-and-PM-Strategies.md">The Planning Game and PM Strategies</a></li>
-      <li><a href="Game-Production/Producers-Budgets-and-Quotes.md">Producers Budgets and Quotes</a></li>
-      <li><a href="Game-Production/People-and-Conflict.md">People and Conflict</a></li>
-      <li><a href="Game-Production/Overtime-Crunch.md">Overtime Crunch</a></li>
-      <li><a href="Game-Production/Marketing-and-Stores.md">Marketing and Stores</a></li>
-      <li><a href="Game-Production/Evaluation-Reflection.md">Evaluation Reflection</a></li>
+      <li><a href="Game-Production/Acerta">Acerta</a></li>
+      <li><a href="Game-Production/Vocabulary">Vocabulary</a></li>
+      <li><a href="Game-Production/The-Game-Life-Cycle">The Game Life Cycle</a></li>
+      <li><a href="Game-Production/Time-Management-and-Stakeholder-Communication">Time Management and Stakeholder Communication</a></li>
+      <li><a href="Game-Production/The-Planning-Game-and-PM-Strategies">The Planning Game and PM Strategies</a></li>
+      <li><a href="Game-Production/Producers-Budgets-and-Quotes">Producers Budgets and Quotes</a></li>
+      <li><a href="Game-Production/People-and-Conflict">People and Conflict</a></li>
+      <li><a href="Game-Production/Overtime-Crunch">Overtime Crunch</a></li>
+      <li><a href="Game-Production/Marketing-and-Stores">Marketing and Stores</a></li>
+      <li><a href="Game-Production/Evaluation-Reflection">Evaluation Reflection</a></li>
     </ul>
   </div>
   <div class="masonry-item">
