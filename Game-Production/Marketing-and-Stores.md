@@ -58,3 +58,5 @@
 - **Conversion Rate**: % of users who take a desired action (e.g., wishlist).
 - **Initial Market Reactions**: Early feedback from the public.
 - **KPI**: Key Performance Indicator (e.g., wishlist goals).
+
+<img src="../assets/images/Marketing-Strategy.avif" class="img-normal" draggable="false">
