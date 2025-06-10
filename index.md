@@ -7,12 +7,12 @@
       <li><a href="Game-Production/Acerta">Acerta</a></li>
       <li><a href="Game-Production/Vocabulary">Vocabulary</a></li>
       <li><a href="Game-Production/The-Game-Life-Cycle">The Game Life Cycle</a></li>
-      <li><a href="Game-Production/Time-Management-and-Stakeholder-Communication">Time Management and Stakeholder Communication</a></li>
-      <li><a href="Game-Production/The-Planning-Game-and-PM-Strategies">The Planning Game and PM Strategies</a></li>
-      <li><a href="Game-Production/Producers-Budgets-and-Quotes">Producers Budgets and Quotes</a></li>
-      <li><a href="Game-Production/People-and-Conflict">People and Conflict</a></li>
+      <li><a href="Game-Production/Time-Management-and-Stakeholder-Communication">Time Management & Stakeholder Communication</a></li>
+      <li><a href="Game-Production/The-Planning-Game-and-PM-Strategies">The Planning Game & PM Strategies</a></li>
+      <li><a href="Game-Production/Producers-Budgets-and-Quotes">Producers Budgets & Quotes</a></li>
+      <li><a href="Game-Production/People-and-Conflict">People & Conflict</a></li>
       <li><a href="Game-Production/Overtime-Crunch">Overtime Crunch</a></li>
-      <li><a href="Game-Production/Marketing-and-Stores">Marketing and Stores</a></li>
+      <li><a href="Game-Production/Marketing-and-Stores">Marketing & Stores</a></li>
       <li><a href="Game-Production/Evaluation-Reflection">Evaluation Reflection</a></li>
     </ul>
   </div>

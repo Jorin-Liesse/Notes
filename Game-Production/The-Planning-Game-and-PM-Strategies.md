@@ -21,7 +21,7 @@
 
 ## Agile-Strategy
 
-<img src="assets/images/Agile-Strategy.avif" draggable="false">
+<img src="../assets/images/Agile-Strategy.avif" class="img-normal" draggable="false">
 
 | **+ (positive)**                             | **- (negative)**                                                                  |
 |----------------------------------------------|-----------------------------------------------------------------------------------|
@@ -39,7 +39,7 @@
 
 ## Waterfall-Strategy
 
-<img src="assets/images/Waterfall-Strategy.avif" draggable="false">
+<img src="../assets/images/Waterfall-Strategy.avif" class="img-normal" draggable="false">
 
 | **+ (positive)**                                              | **- (negative)**                         |
 |---------------------------------------------------------------|------------------------------------------|

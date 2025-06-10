@@ -56,6 +56,8 @@
 
 ---
 
+<img src="../assets/images/Game-Develepment-Pipline.avif" class="img-ultra-large" draggable="false">
+
 ## Game Production Pipeline
 
 - The Concept

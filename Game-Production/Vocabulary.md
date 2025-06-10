@@ -30,7 +30,9 @@
 
 **Implied Overtime:** Overtime that feels enforced but isn’t. Often some coercion is felt.  
 
-**Proposal:** A proposal, in this context, is what a company proposes to a client.  
+**Proposal:** A proposal, in this context, is what a company proposes to a client. 
+
+<audio controls> <source src="../assets/audio/General.mp3" type="audio/mpeg"> Your browser does not support the audio element.</audio>
 
 <br>
 
@@ -120,6 +122,8 @@
 
 **Horizontal Slice:** Broad overview of systems, not polished.  
 
+<audio controls> <source src="../assets/audio/Production.mp3" type="audio/mpeg"> Your browser does not support the audio element.</audio>
+
 <br>
 
 ## Marketing
@@ -159,6 +163,8 @@
 
 **KPI:** Key Performance Indicator. Metric that you set as milestone or goal. Example:** By October, we should have 10K wishlists.  
 
+<audio controls> <source src="../assets/audio/Marketing.mp3" type="audio/mpeg"> Your browser does not support the audio element.</audio>
+
 <br>
 
 ## Business
@@ -190,6 +196,8 @@
 
 **Green Light:** The moment a project is approved for production. Usually used when an external stakeholder is involved.  
 
+<audio controls> <source src="../assets/audio/Business.mp3" type="audio/mpeg"> Your browser does not support the audio element.</audio>
+
 <br>
 
 ## Financial
@@ -219,6 +227,8 @@
 
 **IPO:** Initial public offering, in which shares of a private company are made available to the public for the first time.  
 
+<audio controls> <source src="../assets/audio/Financial.mp3" type="audio/mpeg"> Your browser does not support the audio element.</audio>
+
 <br>
 
 ## Legal
@@ -235,3 +245,8 @@
 **Fair Use:** is a legal concept that allows for the limited use of copyrighted material without the need for permission.  
 
 **Parody(in copyright law):** A parody is work that imitates work that falls under copyright protection. It does this with the intent of commenting on, criticizing and/or making fun of the copyrighted work.  
+
+<audio controls> <source src="../assets/audio/Legal.mp3" type="audio/mpeg"> Your browser does not support the audio element.</audio>
+
+
+<audio controls> <source src="../assets/audio/Total.mp3" type="audio/mpeg"> Your browser does not support the audio element.</audio>
