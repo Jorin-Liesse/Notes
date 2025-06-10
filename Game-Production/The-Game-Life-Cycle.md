@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="../style.css">
+
 # 🎮 The Game Life Cycle
 
 ## 📌 Core Stages of Game Development

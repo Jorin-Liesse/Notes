@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="../style.css">
 
 # 📋 The Planning Game & Project Management Strategies – Summary
 
