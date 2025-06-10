@@ -72,7 +72,7 @@
 
 **Limited Liability Company**: Company form in the US and UK that is roughly the same as bv (besloten vennootschap) in Belgium and The Netherlands. This form combines the taxation benefits of a partnership with the limited liability of a company.
 
-**Research question**: What generally makes a good research question?  
+**Research Question**: What generally makes a good research question?  
 • Clear and Focused  
 • Concise but descriptive  
 • Answerable  

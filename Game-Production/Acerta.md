@@ -1,12 +1,6 @@
 <link rel="stylesheet" href="../style.css">
 
-## Game Production
-
-
-
----
-
-# Acerta
+## Acerta
 
 |**Enterprise Office Services**                |
 |----------------------------------------------|
