@@ -46,6 +46,8 @@
 
 [Xplab (Diepenbeek)](https://xplab.be/) [[e-mail](xplab@ucll.be)]
 
+[Rogue Side (Geel)](https://www.rogueside.com/) [[e-mail](https://www.rogueside.com/)]
+
 
 contact@the-artistocrats.com  
 info@lugus-studios.be  
